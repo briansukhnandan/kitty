@@ -1,6 +1,6 @@
 # kitty
-Personal config for the kitty terminal
-By default this config uses the `gruvbox` colorscheme.
+- Personal config for the kitty terminal.
+- By default this config uses the `gruvbox` colorscheme.
 
 # Keybinds
 - kitty_mod -> `ctrl+shift`
