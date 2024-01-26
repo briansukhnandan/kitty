@@ -17,5 +17,8 @@
 
 - resize window -> `kitty_mod+r`
 
-- next tab -> `ctrl + tab`
-- prev tab -> `ctrl + shift + tab`
+- next tab -> `ctrl+tab`
+- prev tab -> `ctrl+shift+tab`
+
+- copy into clipboard -> `alt+c`
+- paste from clipboard -> `alt+v`
