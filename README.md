@@ -17,5 +17,5 @@
 
 - resize window -> `kitty_mod+r`
 
-- next tab -> ctrl + tab
-- prev tab -> ctrl + shift + tab
+- next tab -> `ctrl + tab`
+- prev tab -> `ctrl + shift + tab`
